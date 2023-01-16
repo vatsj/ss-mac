@@ -1,0 +1,3 @@
+[submodule "ss-pl"]
+	path = ss-pl
+	url = https://github.com/vatsj/ss-pl
