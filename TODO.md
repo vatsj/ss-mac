@@ -1,0 +1,7 @@
+- [ ] make sure .rc works
+- [ ] add java support
+  - JDK
+  - JRE
+- [ ] auto-download apps
+  - chrome
+  - other mac stuff idk
