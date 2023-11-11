@@ -1,7 +1,14 @@
 - [ ] make sure .rc works
+  - keyboard shortcuts failing?!
 - [ ] add java support
   - JDK
   - JRE
 - [ ] auto-download apps
   - chrome
   - other mac stuff idk
+- [ ] link bash n zsh rc
+- [ ] transition to zsh
+- [ ] build out ss-pl
+  - incorporate into ss-ubuntu
+- [ ] copy features from ss-ubuntu
+  - there's a lot to do bruv
